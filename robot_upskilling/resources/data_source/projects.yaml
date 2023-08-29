@@ -1,0 +1,89 @@
+growth_units_without_project:
+  - name: Argo
+  - name: Centelha
+  - name: Delta
+  - name: Diamond
+  - name: Everest
+  - name: Harmony
+  - name: Iguazu
+  - name: Jupiter
+  - name: Kappa
+  - name: Kilimanjaro
+  - name: Lovelace
+  - name: Lumiere
+  - name: Matilda
+  - name: Olympus
+  - name: Proxima
+  - name: Pyxis
+  - name: Sapphire
+  - name: Saturn
+  - name: Sena
+  - name: Theta
+  - name: Topaz
+  - name: Zeta Tauri
+alpha_tauri_projects:
+  gu:
+    name: Alpha Tauri
+  projects:
+    - J&J Project
+  projects_data:
+    - name: J&J Project
+      url: alpha-tauri/jj-project
+colorado_projects:
+  gu:
+    name: Colorado
+  projects:
+    - Ford Project
+    - iFood Project
+    - Sicred Project
+  projects_data:
+    - name: Ford Project
+      url: colorado/ford-project
+    - name: iFood Project
+      url: colorado/ifood-project
+    - name: Sicred Project
+      url: colorado/sicred-project
+hadar_projects:
+  gu:
+    name: Hadar
+  projects:
+    - iHeart Media Project
+    - Foot Locker Project
+    - SoundHound Project
+  projects_data:
+    - name: iHeart Media Project
+      url: hadar/iheart-media-project
+    - name: Foot Locker Project
+      url: hadar/foot-locker-project
+    - name: SoundHound Project
+      url: hadar/soundhound-project
+ruby_projects:
+  gu:
+    name: Ruby
+  projects:
+    - Bradesco Project
+  projects_data:
+    - name: Bradesco Project
+      url: ruby/bradesco-project
+sao_francisco_projects:
+  gu:
+    name: São Francisco
+  projects:
+    - Anima Project
+    - Mitsui Project
+  projects_data:
+    - name: Anima Project
+      url: sao-francisco/anima-project
+    - name: Mitsui Project
+      url: sao-francisco/mitsui-project
+tigris_projects:
+  gu:
+    name: Tigris
+  projects:
+    - Braskem Project
+    - Creditas Project
+  projects_data:
+    - name: Braskem Project
+      url: tigris/braskem-project
+    - name: Creditas Project
+      url: tigris/creditas-project

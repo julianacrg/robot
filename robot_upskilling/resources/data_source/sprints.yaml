@@ -1,0 +1,164 @@
+projects_without_sprints:
+  - name: Sicred Project
+    url: colorado/sicred-project
+  - name: iHeart Media Project
+    url: hadar/iheart-media-project
+  - name: Anima Project
+    url: sao-francisco/anima-project
+  - name: Mitsui Project
+    url: sao-francisco/mitsui-project
+  - name: Creditas Project
+    url: tigris/creditas-project
+jj_project_sprints:
+  name: J&J Project
+  url: alpha-tauri/jj-project
+  sprints:
+    - Sprint 1
+    - Sprint 2
+    - Sprint 3
+  sprints_data:
+    - name: Sprint 1
+      url: alpha-tauri/jj-project/sprint-1
+      stories:
+        - AFXW-10085 Form input element
+        - AFXW-10086 sign up
+      stories_data:
+        - name: Form input element
+          jira: AFXW-10085
+        - name: sign up
+          jira: AFXW-10086
+    - name: Sprint 2
+      url: alpha-tauri/jj-project/sprint-2
+      stories:
+        - AFXW-10088 Event Rules
+      stories_data:
+        - name: Event Rules
+          jira: AFXW-10088
+    - name: Sprint 3
+      url: alpha-tauri/jj-project/sprint-3
+      stories: []
+ford_project_sprints:
+  name: Ford Project
+  url: colorado/ford-project
+  sprints:
+    - Sprint 1
+    - Sprint 2
+  sprints_data:
+    - name: Sprint 1
+      url: colorado/ford-project/sprint-1
+      stories:
+        - FPDW-2001 Test Rules
+        - FPDW-2054 Reset Password
+      stories_data:
+        - name: Test Rules
+          jira: FPDW-2001
+        - name: Reset Password
+          jira: FPDW-2054
+    - name: Sprint 2
+      url: colorado/ford-project/sprint-2
+      stories: []
+ifood_project_sprints:
+  name: iFood Project
+  url: colorado/ifood-project
+  sprints:
+    - Sprint 1
+  sprints_data:
+    - name: Sprint 1
+      url: colorado/ifood-project/sprint-1
+      stories:
+        - IFPW-104 Test Automation
+      stories_data:
+        - name: Test Automation
+          jira: IFPW-104
+foot_locker_project_sprints:
+  name: Foot Locker Project
+  url: hadar/foot-locker-project
+  sprints:
+    - Sprint 1
+    - Sprint 2
+    - Sprint 3
+  sprints_data:
+    - name: Sprint 1
+      url: hadar/foot-locker-project/sprint-1
+      stories:
+        - FPDW-2001 Test Rules
+        - FPDW-2054 Reset Password
+      stories_data:
+        - name: Test Rules
+          jira: FPDW-2001
+        - name: Reset Password
+          jira: FPDW-2054
+    - name: Sprint 2
+      url: hadar/foot-locker-project/sprint-2
+      stories:
+        - FPDW-2056 Forgot Password
+        - FPDW-2058 Edit User
+      stories_data:
+        - name: Forgot Password
+          jira: FPDW-2056
+        - name: Edit User
+          jira: FPDW-2058
+    - name: Sprint 3
+      url: hadar/foot-locker-project/sprint-3
+      stories:
+        - FPDW-2059 Delete User
+      stories_data:
+        - name: Delete User
+          jira: FPDW-2059
+soundhound_project_sprints:
+  name: SoundHound Project
+  url: hadar/soundhound-project
+  sprints:
+    - Sprint 1
+    - Sprint 2
+    - Sprint 3
+  sprints_data:
+    - name: Sprint 1
+      url: hadar/soundhound-project/sprint-1
+      stories:
+        - SNDH-1001 List Users
+        - SNDH-1002 List Groups
+      stories_data:
+        - name: List Users
+          jira: SNDH-1001
+        - name: List Groups
+          jira: SNDH-1002
+    - name: Sprint 2
+      url: hadar/soundhound-project/sprint-2
+      stories:
+        - SNDH-1003 Edit Users
+      stories_data:
+        - name: Edit Users
+          jira: SNDH-1003
+    - name: Sprint 3
+      url: hadar/soundhound-project/sprint-3
+      stories: []
+bradesco_project_sprints:
+  name: Bradesco Project
+  url: ruby/bradesco-project
+  sprints:
+    - Sprint 1
+  sprints_data:
+    - name: Sprint 1
+      url: ruby/bradesco-project/sprint-1
+      stories:
+        - BRDC-952 Transfer Funds
+        - BRDC-955 List Balance
+      stories_data:
+        - name: Transfer Funds
+          jira: BRDC-952
+        - name: List Balance
+          jira: BRDC-955
+braskem_project_sprints:
+  name: Braskem Project
+  url: tigris/braskem-project
+  sprints:
+    - Sprint 1
+  sprints_data:
+    - name: Sprint 1
+      url: tigris/braskem-project/sprint-1
+      stories:
+        - BRSK-101 Register
+      stories_data:
+        - name: Register
+          jira: BRSK-101

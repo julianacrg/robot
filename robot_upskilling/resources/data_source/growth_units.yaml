@@ -1,0 +1,57 @@
+all_growth_units:
+  - name: Alpha Tauri
+    url: alpha-tauri
+  - name: Argo
+    url: argo
+  - name: Centelha
+    url: centelha
+  - name: Colorado
+    url: colorado
+  - name: Delta
+    url: delta
+  - name: Diamond
+    url: diamond
+  - name: Everest
+    url: everest
+  - name: Hadar
+    url: hadar
+  - name: Harmony
+    url: harmony
+  - name: Iguazu
+    url: iguazu
+  - name: Jupiter
+    url: jupiter
+  - name: Kappa
+    url: kappa
+  - name: Kilimanjaro
+    url: kilimanjaro
+  - name: Lovelace
+    url: lovelace
+  - name: Lumiere
+    url: lumiere
+  - name: Matilda
+    url: matilda
+  - name: Olympus
+    url: olympus
+  - name: Proxima
+    url: proxima
+  - name: Pyxis
+    url: pyxis
+  - name: Ruby
+    url: ruby
+  - name: São Francisco
+    url: sao-francisco
+  - name: Sapphire
+    url: sapphire
+  - name: Saturn
+    url: saturn
+  - name: Sena
+    url: sena
+  - name: Theta
+    url: theta
+  - name: Tigris
+    url: tigris
+  - name: Topaz
+    url: topaz
+  - name: Zeta Tauri
+    url: zeta-tauri
